@@ -11,3 +11,4 @@ This project analyzed the sales, quantity, and gross profit of a Plant’s Selli
 </ul>
 
 <h1>Performance report</h1>
+![plant screen](https://github.com/user-attachments/assets/0d3b4408-fd3b-4202-a9dd-5d88537e3dd7)
