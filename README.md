@@ -11,4 +11,4 @@ This project analyzed the sales, quantity, and gross profit of a Plant’s Selli
 </ul>
 
 <h1>Performance report</h1>
-plant screen.PNG
+[plant screen.PNG](https://github.com/misssn1998/Plant-Sale-Performance-with-PowerBI-/blob/250b594711e6af19dba5c5a92d1d6e951830dd88/plant%20screen.PNG)
